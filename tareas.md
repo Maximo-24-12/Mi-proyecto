@@ -1,3 +1,5 @@
-# Revisar apuntes de git
+ HEAD
+# Revisar apunte de git
+mejora-tareas
 # Preparar resumen
 # Tareas-realizar 
